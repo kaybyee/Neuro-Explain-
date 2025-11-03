@@ -1,0 +1,1 @@
+The project presentation for "Neuro-Explain"- A hypothetical cloud-based platform for early Alzheimer's detection using explainable AI (XAI) techniques and EEG data to increase trust and clinical adoption
